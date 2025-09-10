@@ -1,0 +1,14 @@
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\bin\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.exe
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\bin\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.deps.json
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\bin\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.runtimeconfig.json
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\bin\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.dll
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\bin\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.pdb
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.AssemblyInfoInputs.cache
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.AssemblyInfo.cs
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.dll
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\refint\Notas_Soft_OP_LOG_RELAC.dll
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.pdb
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\Notas_Soft_OP_LOG_RELAC.genruntimeconfig.cache
+C:\Users\Mipro\source\repos\Notas_Soft_OP_LOG_RELAC\Notas_Soft_OP_LOG_RELAC\obj\Debug\net8.0\ref\Notas_Soft_OP_LOG_RELAC.dll

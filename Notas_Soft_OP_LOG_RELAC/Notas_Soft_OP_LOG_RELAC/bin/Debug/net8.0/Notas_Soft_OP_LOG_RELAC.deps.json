@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Notas_Soft_OP_LOG_RELAC/1.0.0": {
+        "runtime": {
+          "Notas_Soft_OP_LOG_RELAC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notas_Soft_OP_LOG_RELAC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
